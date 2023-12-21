@@ -1,7 +1,7 @@
 const App = () => {
     return (
         <div>
-            <p>Hello from React</p>
+            <p>Hello from React CI CD</p>
         </div>
     )
 }
